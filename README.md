@@ -1,25 +1,6 @@
-# README
+# Accounts App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# accounts
+Simple accounts app
+the orginal: https://github.com/rrunyon/accounts-react-rails-jsx
+thanks to Fernando Villalobos for amazing tutorial: https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
+demo: https://stormy-plateau-43034.herokuapp.com/records
